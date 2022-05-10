@@ -7,6 +7,10 @@
 - keyboard
 # ducky miya pro
 ![keyboard](https://user-images.githubusercontent.com/60161432/167679283-4baf889f-53fc-43d2-b0e3-f110032137a0.png)
+
+# OR
+
+![faze keyboard](https://user-images.githubusercontent.com/60161432/167697567-a17e4b31-5117-4848-8484-0b2cecdca00b.png)
 - monitor
 # 49" QLED Gaming Monitor with 32:9 Super Ultra-wide screen
 ![monitor](https://user-images.githubusercontent.com/60161432/167681552-08b9274b-2f39-4d19-9272-afc2d9288442.png)
