@@ -14,10 +14,10 @@
 
   - CPU
   - RAM
-	- GPU
-	- fan
-	- motherboard
-	- LED lights
+  - GPU
+  - fan
+  - motherboard
+  - LED lights
 - rolling chair
 # herman miller Logitech EMBODY GAMING CHAIR (1500$)
 ![chair](https://user-images.githubusercontent.com/60161432/167680491-cdf305da-18bf-4e09-8c69-7379f9ec67f3.png)
