@@ -4,6 +4,7 @@
 # 200$
 ![finalmouse](https://user-images.githubusercontent.com/60161432/167678929-dd27be75-d286-4957-9b59-37f28770ec1c.png)
 - mousepad
+![deskpad](https://user-images.githubusercontent.com/60161432/167932327-231b4ff5-6779-40a6-b762-4850b717baa4.png)
 - keyboard
 # ducky miya pro
 ![keyboard](https://user-images.githubusercontent.com/60161432/167679283-4baf889f-53fc-43d2-b0e3-f110032137a0.png)
