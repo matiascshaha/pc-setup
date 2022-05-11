@@ -23,10 +23,12 @@
   - motherboard
   - LED lights
 - rolling chair
-# herman miller Logitech EMBODY GAMING CHAIR (1500$)
+# herman miller Logitech EMBODY GAMING CHAIR (1795$ NEW about 1200)
 ![chair](https://user-images.githubusercontent.com/60161432/167680491-cdf305da-18bf-4e09-8c69-7379f9ec67f3.png)
-
-
+# OR (herman miller Aeron Gaming Chair 1695$ NEW about 800 used)
+![aeron_chair](https://user-images.githubusercontent.com/60161432/167929748-0ba8baea-bbb5-424a-b35d-296b1463b1b9.png)
+# OR (Staples Hyken Technical Mesh Task Chair 200$ NEW)
+![staples_chair](https://user-images.githubusercontent.com/60161432/167930154-9f369231-ef2b-4464-bccf-1077fbe024fe.png)
 - not necessary:
   - desk
   - love sac
