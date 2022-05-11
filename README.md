@@ -3,6 +3,8 @@
 - mouse
 # 200$
 ![finalmouse](https://user-images.githubusercontent.com/60161432/167678929-dd27be75-d286-4957-9b59-37f28770ec1c.png)
+# OR (razer deathadder v2 40$)
+![razer](https://user-images.githubusercontent.com/60161432/167933559-f12fac59-c443-4794-b874-d3e61696e5de.png)
 - mousepad
 ![deskpad](https://user-images.githubusercontent.com/60161432/167932327-231b4ff5-6779-40a6-b762-4850b717baa4.png)
 - keyboard
@@ -21,6 +23,7 @@
   - RAM
   - GPU
   - fan
+  - case
   - motherboard
   - LED lights
 - rolling chair
