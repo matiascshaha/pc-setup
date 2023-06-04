@@ -50,6 +50,6 @@ case:
 - 87% https://novelkeys.com/products/nk87-entry-edition?variant=41740390596775
 
 cable:
-
+- KBD FANS cable
 
 
