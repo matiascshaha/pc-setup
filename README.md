@@ -35,4 +35,21 @@
 ![staples_chair](https://user-images.githubusercontent.com/60161432/167930154-9f369231-ef2b-4464-bccf-1077fbe024fe.png)
 - not necessary:
   - desk
-  - love sac
+  - love sac if needed
+
+
+# custom Keyboard build
+switches:
+- https://novelkeys.com/products/cream-plus-switches?variant=42983380943015
+
+keycaps:
+
+
+case:
+- 65% https://novelkeys.com/products/nk65-v2-aluminum-edition?variant=34917914706087
+- 87% https://novelkeys.com/products/nk87-entry-edition?variant=41740390596775
+
+cable:
+
+
+
